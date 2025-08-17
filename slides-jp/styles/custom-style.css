@@ -1,0 +1,1040 @@
+/*********************************************
+ * Customized styles 
+*********************************************/
+.reveal .slides section {
+    max-width: 90%;
+}
+
+.caption {
+    font-size: 0.7em;
+    color: #666;
+    margin-top: -20px;
+}
+
+/* 2カラムレイアウトの調整 */
+.container {
+    display: flex;
+    width: 100%;
+    padding-left: 0;
+    margin-left: -2%;
+    margin-right: -2%;
+    gap: 45px;
+}
+  
+.col {
+    flex: 1;
+    padding: 10px;
+    text-align: left;
+}
+
+.col-left {
+    flex: 1;
+    padding: 10px;
+    text-align: left;
+    margin-left: -5%;
+    font-size: 0.9em;
+}
+
+.col-right {
+    flex: 1;
+    padding: 10px;
+    text-align: left;
+    margin-right: -5%;
+    font-size: 0.9em;
+}
+
+.col-image-container {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.col-box {
+    background-color: #f8f9fa;
+    flex: 1;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    border: 2px solid #0084ff;
+}
+
+.col-box-left {
+    background-color: #f8f9fa;
+    flex: 1;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    border: 2px solid #0084ff;
+    margin-left: -5%;
+    font-size: 0.9em;
+}
+
+.col-box-right {
+    background-color: #f8f9fa;
+    flex: 1;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    border: 2px solid #0084ff;
+    margin-right: -5%;
+    font-size: 0.9em;
+}
+
+.code-block {
+    background: #002b36;
+    padding: 15px;
+    border-radius: 10px;
+    font-family: monospace;
+    margin: 10px 0;
+    text-align: left;
+    font-size: 0.8em;
+}
+
+.col-code-block-left {
+    background: #002b36;
+    flex: 1;
+    padding: 15px;
+    border-radius: 10px;
+    font-family: monospace;
+    margin: 10px 0;
+    text-align: left;
+    font-size: 0.75em;
+    margin-left: 0%;
+}
+
+.col-code-block-right {
+    background: #002b36;
+    flex: 1;
+    padding: 15px;
+    border-radius: 10px;
+    font-family: monospace;
+    margin: 10px 0;
+    text-align: left;
+    font-size: 0.75em;
+    margin-right: -20%;
+}
+
+.col-message-block-right {
+    background: #ffffff;
+    flex: 1;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    margin: 10px 0;
+    text-align: left;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 0.85em;
+    line-height: 1.6;
+    border: 1px solid #e1e4e8;
+    margin-right: -20%;
+    color: #24292e;
+}
+
+.col-message-block-left {
+    background: #ffffff;
+    flex: 1;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    margin: 10px 0;
+    text-align: left;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 0.85em;
+    line-height: 1.6;
+    border: 1px solid #e1e4e8;
+    margin-left: -20%;
+    color: #24292e;
+}
+
+.reveal .slides .profile-container {
+    display: flex;
+    width: 100%;
+    gap: 125px;
+}
+
+/* プロフィールカード用のカラム */
+.reveal .slides .profile-left {
+    flex: 10;
+    background-color: #f8f9fa;
+    border-radius: 30px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    width: 180%;
+    text-align: left;
+    font-size: 28px;
+    margin-left: 0%;
+    margin-right: -10%;
+    padding: 20px 20px;
+    position: relative;
+    border: 2px solid #FFFFFF;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* アバター画像用のカラム */
+.reveal .slides .profile-right {
+    flex: 10;
+    display: flex;
+    align-items: center; 
+    position: relative;
+    margin-right: -10%;
+}
+
+.highlight-box {
+    background-color: #f8f9fa;
+    border-left: 16px solid #0084ff;
+    padding: 5px;
+    padding-left: 15px;
+    text-align: left;
+    width: 110%;
+    margin-left: -5%;
+}
+
+.simple-box {
+    background-color: #f8f9fa;
+    width: 110%;
+    padding: 10px;
+    padding-left: 10px;
+    margin-left: -5%;
+    padding-right: 10px;
+    margin-right: 0%;
+    gap: 15px;
+    text-align: left;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    border-radius: 20px;
+}
+
+/* 物理原理説明用のボックス */
+.physics-principle {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 20px;
+    border-radius: 15px;
+    margin: 20px 0;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    font-size: 0.9em;
+}
+
+/* 物理公式用のボックス */
+.physics-formula {
+    background-color: #f0f4ff;
+    border-left: 5px solid #4a69bd;
+    padding: 15px;
+    margin: 15px 0;
+    border-radius: 5px;
+}
+
+.physics-formula h4 {
+    color: #4a69bd;
+    margin-top: 0;
+}
+
+/* 図解用のボックス */
+.diagram-box {
+    background-color: white;
+    border: 2px solid #e0e0e0;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 15px 0;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+/* 明るい干渉条件用ボックス */
+.interference-bright {
+    background: linear-gradient(135deg, #fff3cd 0%, #ffe08a 100%);
+    padding: 20px;
+    border-radius: 15px;
+    margin: 20px 0;
+    border: 2px solid #ffc107;
+    box-shadow: 0 4px 6px rgba(255, 193, 7, 0.2);
+}
+
+.interference-bright h4 {
+    color: #856404;
+    margin-top: 0;
+}
+
+/* 暗い干渉条件用ボックス */
+.interference-dark {
+    background: linear-gradient(135deg, #e0e0e0 0%, #9e9e9e 100%);
+    padding: 20px;
+    border-radius: 15px;
+    margin: 20px 0;
+    border: 2px solid #616161;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    color: black;
+}
+
+.interference-dark h4 {
+    color: black;
+    margin-top: 0;
+}
+
+/* 波長の色説明用ボックス */
+.wavelength-box {
+    background: linear-gradient(90deg, 
+        rgba(255,0,0,0.2) 0%, 
+        rgba(255,255,0,0.2) 20%, 
+        rgba(0,255,0,0.2) 40%, 
+        rgba(0,255,255,0.2) 60%, 
+        rgba(0,0,255,0.2) 80%, 
+        rgba(128,0,128,0.2) 100%);
+    padding: 20px;
+    border-radius: 15px;
+    margin: 20px 0;
+    border: 2px solid #9c27b0;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.wavelength-box strong {
+    display: block;
+    margin-bottom: 10px;
+    color: #6a1b9a;
+}
+
+/* 測定原理説明用ボックス */
+.measurement-principle {
+    background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%);
+    padding: 20px;
+    border-radius: 15px;
+    margin: 20px 0;
+    border: 2px solid #2196f3;
+    box-shadow: 0 4px 6px rgba(33, 150, 243, 0.2);
+}
+
+.measurement-principle h4 {
+    color: #1565c0;
+    margin-top: 0;
+}
+
+/* スケール比較用ボックス */
+.scale-comparison {
+    background-color: #fafafa;
+    padding: 20px;
+    border-radius: 15px;
+    margin: 20px 0;
+    border: 2px solid #bdbdbd;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.scale-comparison h4 {
+    color: #424242;
+    margin-top: 0;
+}
+
+/* 増幅効果説明用ボックス */
+.amplification-box {
+    background: linear-gradient(135deg, #fce4ec 0%, #f8bbd0 100%);
+    padding: 20px;
+    border-radius: 15px;
+    margin: 20px 0;
+    border: 2px solid #e91e63;
+    box-shadow: 0 4px 6px rgba(233, 30, 99, 0.2);
+}
+
+.amplification-box h4 {
+    color: #c2185b;
+    margin-top: 0;
+}
+
+/* 大きな測定原理説明用ボックス */
+.measurement-principle-large {
+    background: linear-gradient(135deg, #f5f5f5 0%, #e0e0e0 100%);
+    padding: 40px;
+    border-radius: 20px;
+    margin: 20px auto;
+    max-width: 90%;
+    text-align: center;
+}
+
+.measurement-principle-large h3 {
+    color: #424242;
+    margin-bottom: 30px;
+}
+
+/* 測定容易ボックス */
+.easy-measurement {
+    background: linear-gradient(135deg, #e8f5e9 0%, #a5d6a7 100%);
+    padding: 30px;
+    border-radius: 15px;
+    border: 3px solid #4caf50;
+    box-shadow: 0 4px 6px rgba(76, 175, 80, 0.3);
+    min-height: 200px;
+}
+
+.easy-measurement h4 {
+    color: #2e7d32;
+    margin-top: 0;
+}
+
+/* 測定困難ボックス */
+.hard-measurement {
+    background: linear-gradient(135deg, #ffebee 0%, #ef9a9a 100%);
+    padding: 30px;
+    border-radius: 15px;
+    border: 3px solid #f44336;
+    box-shadow: 0 4px 6px rgba(244, 67, 54, 0.3);
+    min-height: 200px;
+}
+
+.hard-measurement h4 {
+    color: #c62828;
+    margin-top: 0;
+}
+
+/* 大きな物理公式ボックス */
+.physics-formula-large {
+    background-color: #f0f4ff;
+    border-left: 8px solid #4a69bd;
+    padding: 30px;
+    margin: 30px auto;
+    border-radius: 10px;
+    max-width: 80%;
+}
+
+.formula-steps {
+    font-size: 1.2em;
+    line-height: 2;
+    text-align: center;
+}
+
+/* 変換例ボックス */
+.conversion-example {
+    background: linear-gradient(135deg, #fff3e0 0%, #ffe0b2 100%);
+    padding: 30px;
+    margin: 30px auto;
+    border-radius: 15px;
+    border: 2px solid #ff9800;
+    max-width: 85%;
+    box-shadow: 0 4px 6px rgba(255, 152, 0, 0.2);
+}
+
+/* スケール視覚化コンテナ */
+.scale-visualization {
+    background-color: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    margin: 20px auto;
+    max-width: 90%;
+}
+
+/* 増幅効果の威力ボックス */
+.amplification-power {
+    background: linear-gradient(135deg, #f3e5f5 0%, #e1bee7 100%);
+    padding: 40px;
+    border-radius: 20px;
+    margin: 20px auto;
+    max-width: 85%;
+    text-align: center;
+    border: 3px solid #9c27b0;
+    box-shadow: 0 6px 12px rgba(156, 39, 176, 0.3);
+}
+
+.power-diagram {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 30px;
+    border-radius: 15px;
+    margin: 20px auto;
+    font-size: 1.3em;
+    line-height: 2.5;
+}
+
+.applications-preview {
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 25px;
+    border-radius: 15px;
+    margin-top: 30px;
+    border: 2px dashed #7b1fa2;
+}
+
+/* シャボン玉の原理説明ボックス */
+.soap-bubble-principle {
+    background: linear-gradient(135deg, #e0f7fa 0%, #80deea 100%);
+    padding: 20px;
+    border-radius: 15px;
+    border: 2px solid #00acc1;
+    box-shadow: 0 4px 6px rgba(0, 172, 193, 0.2);
+}
+
+.soap-bubble-principle h4 {
+    color: #00838f;
+    margin-top: 0;
+}
+
+/* シャボン玉の色説明ボックス */
+.soap-color-explanation {
+    background: linear-gradient(90deg, 
+        rgba(255,0,0,0.1) 0%, 
+        rgba(255,165,0,0.1) 17%, 
+        rgba(255,255,0,0.1) 33%, 
+        rgba(0,255,0,0.1) 50%, 
+        rgba(0,0,255,0.1) 67%, 
+        rgba(128,0,128,0.1) 83%, 
+        rgba(255,0,255,0.1) 100%);
+    padding: 20px;
+    border-radius: 15px;
+    border: 2px solid #9c27b0;
+    box-shadow: 0 4px 6px rgba(156, 39, 176, 0.2);
+}
+
+.soap-color-explanation h4 {
+    color: #6a1b9a;
+    margin-top: 0;
+}
+
+/* シャボン玉の豆知識ボックス */
+.bubble-fact {
+    background: linear-gradient(135deg, #fff9c4 0%, #ffeb3b 100%);
+    padding: 20px;
+    border-radius: 15px;
+    border: 2px solid #fbc02d;
+    box-shadow: 0 4px 6px rgba(251, 192, 45, 0.3);
+    margin-top: 20px;
+    color: #6a4c00;
+    font-weight: bold;
+}
+
+/* AFM紹介ボックス */
+.afm-intro {
+    background: linear-gradient(135deg, #e8eaf6 0%, #c5cae9 100%);
+    padding: 25px;
+    border-radius: 15px;
+    border: 2px solid #5c6bc0;
+    box-shadow: 0 4px 6px rgba(92, 107, 192, 0.2);
+}
+
+.afm-intro h4 {
+    color: #3949ab;
+    margin-top: 0;
+}
+
+/* AFM原理説明ボックス */
+.afm-principle {
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 15px;
+    border: 2px solid #9e9e9e;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.afm-principle h4 {
+    color: #424242;
+    margin-top: 0;
+}
+
+/* AFM測定フローボックス */
+.afm-measurement {
+    background: linear-gradient(135deg, #e0f2f1 0%, #b2dfdb 100%);
+    padding: 25px;
+    border-radius: 15px;
+    border: 2px solid #26a69a;
+    box-shadow: 0 4px 6px rgba(38, 166, 154, 0.2);
+}
+
+.afm-measurement h4 {
+    color: #00695c;
+    margin-top: 0;
+}
+
+/* AFM感度説明ボックス */
+.afm-sensitivity {
+    background: linear-gradient(135deg, #fce4ec 0%, #f8bbd0 100%);
+    padding: 25px;
+    border-radius: 15px;
+    border: 2px solid #e91e63;
+    box-shadow: 0 4px 6px rgba(233, 30, 99, 0.2);
+}
+
+.afm-sensitivity h4 {
+    color: #c2185b;
+    margin-top: 0;
+}
+
+/* 感度比較ボックス */
+.sensitivity-comparison {
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 1.1em;
+    line-height: 1.8;
+}
+
+/* AFM観察例ボックス */
+.afm-examples {
+    background: linear-gradient(135deg, #fff3e0 0%, #ffe0b2 100%);
+    padding: 25px;
+    border-radius: 15px;
+    border: 2px solid #ff9800;
+    box-shadow: 0 4px 6px rgba(255, 152, 0, 0.2);
+}
+
+.afm-examples h4 {
+    color: #e65100;
+    margin-top: 0;
+}
+
+/* AFM画像コンテナ */
+.afm-images {
+    background-color: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+/* XRD紹介ボックス */
+.xrd-intro {
+    background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%);
+    padding: 25px;
+    border-radius: 15px;
+    border: 2px solid #2196f3;
+    box-shadow: 0 4px 6px rgba(33, 150, 243, 0.2);
+}
+
+.xrd-intro h4 {
+    color: #1565c0;
+    margin-top: 0;
+}
+
+/* XRD発見ボックス */
+.xrd-discovery {
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 15px;
+    border: 2px solid #9e9e9e;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.xrd-discovery h4 {
+    color: #424242;
+    margin-top: 0;
+}
+
+/* ブラッグ原理ボックス */
+.bragg-principle {
+    background: linear-gradient(135deg, #fff3e0 0%, #ffe0b2 100%);
+    padding: 25px;
+    border-radius: 15px;
+    border: 2px solid #ff9800;
+    box-shadow: 0 4px 6px rgba(255, 152, 0, 0.2);
+}
+
+.bragg-principle h4 {
+    color: #e65100;
+    margin-top: 0;
+}
+
+/* 比較テーブル */
+.comparison-table {
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 15px;
+    border-radius: 10px;
+    margin: 15px 0;
+}
+
+.comparison-table table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.comparison-table th,
+.comparison-table td {
+    padding: 8px;
+    text-align: center;
+    border: 1px solid #ddd;
+}
+
+.comparison-table th {
+    background-color: #f0f0f0;
+    font-weight: bold;
+}
+
+/* ブラッグ図解ボックス */
+.bragg-diagram {
+    background-color: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+/* XRD解析ボックス */
+.xrd-analysis {
+    background: linear-gradient(135deg, #e8f5e9 0%, #a5d6a7 100%);
+    padding: 25px;
+    border-radius: 15px;
+    border: 2px solid #4caf50;
+    box-shadow: 0 4px 6px rgba(76, 175, 80, 0.2);
+}
+
+.xrd-analysis h4 {
+    color: #2e7d32;
+    margin-top: 0;
+}
+
+/* 回折パターンボックス */
+.diffraction-pattern {
+    background-color: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+/* XRD応用例ボックス */
+.xrd-applications {
+    background: linear-gradient(135deg, #fce4ec 0%, #f8bbd0 100%);
+    padding: 25px;
+    border-radius: 15px;
+    border: 2px solid #e91e63;
+    box-shadow: 0 4px 6px rgba(233, 30, 99, 0.2);
+}
+
+.xrd-applications h4 {
+    color: #c2185b;
+    margin-top: 0;
+}
+
+/* XRD実例ボックス */
+.xrd-examples {
+    background: linear-gradient(135deg, #f3e5f5 0%, #e1bee7 100%);
+    padding: 25px;
+    border-radius: 15px;
+    border: 2px solid #9c27b0;
+    box-shadow: 0 4px 6px rgba(156, 39, 176, 0.2);
+}
+
+.xrd-examples h4 {
+    color: #6a1b9a;
+    margin-top: 0;
+}
+
+/* InSAR紹介ボックス */
+.insar-intro {
+    background: linear-gradient(135deg, #e1f5fe 0%, #b3e5fc 100%);
+    padding: 25px;
+    border-radius: 15px;
+    border: 2px solid #03a9f4;
+    box-shadow: 0 4px 6px rgba(3, 169, 244, 0.2);
+}
+
+.insar-intro h4 {
+    color: #0277bd;
+    margin-top: 0;
+}
+
+/* 衛星図解ボックス */
+.satellite-diagram {
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 15px;
+    border: 2px solid #9e9e9e;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* InSAR原理ボックス */
+.insar-principle {
+    background: linear-gradient(135deg, #f3e5f5 0%, #e1bee7 100%);
+    padding: 25px;
+    border-radius: 15px;
+    border: 2px solid #9c27b0;
+    box-shadow: 0 4px 6px rgba(156, 39, 176, 0.2);
+}
+
+.insar-principle h4 {
+    color: #6a1b9a;
+    margin-top: 0;
+}
+
+/* InSAR公式ボックス */
+.insar-formula {
+    background: linear-gradient(135deg, #fff3e0 0%, #ffe0b2 100%);
+    padding: 25px;
+    border-radius: 15px;
+    border: 2px solid #ff9800;
+    box-shadow: 0 4px 6px rgba(255, 152, 0, 0.2);
+    margin-top: 20px;
+}
+
+.insar-formula h4 {
+    color: #e65100;
+    margin-top: 0;
+}
+
+/* インターフェログラム例ボックス */
+.interferogram-example {
+    background-color: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+/* 東北地震ボックス */
+.tohoku-earthquake {
+    background: linear-gradient(135deg, #ffebee 0%, #ffcdd2 100%);
+    padding: 25px;
+    border-radius: 15px;
+    border: 2px solid #f44336;
+    box-shadow: 0 4px 6px rgba(244, 67, 54, 0.2);
+}
+
+.tohoku-earthquake h4 {
+    color: #c62828;
+    margin-top: 0;
+}
+
+/* 変位図解ボックス */
+.displacement-diagram {
+    background-color: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+/* 熊本地震ボックス */
+.kumamoto-earthquake {
+    background: linear-gradient(135deg, #fff8e1 0%, #ffecb3 100%);
+    padding: 25px;
+    border-radius: 15px;
+    border: 2px solid #ffc107;
+    box-shadow: 0 4px 6px rgba(255, 193, 7, 0.2);
+}
+
+.kumamoto-earthquake h4 {
+    color: #f57f17;
+    margin-top: 0;
+}
+
+/* 熊本フリンジボックス */
+.kumamoto-fringes {
+    background-color: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+/* だいち2号性能ボックス */
+.daichi2-capabilities {
+    background: linear-gradient(135deg, #e8f5e9 0%, #a5d6a7 100%);
+    padding: 25px;
+    border-radius: 15px;
+    border: 2px solid #4caf50;
+    box-shadow: 0 4px 6px rgba(76, 175, 80, 0.2);
+}
+
+.daichi2-capabilities h4 {
+    color: #2e7d32;
+    margin-top: 0;
+}
+
+/* 時系列解析ボックス */
+.time-series-analysis {
+    background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%);
+    padding: 25px;
+    border-radius: 15px;
+    border: 2px solid #2196f3;
+    box-shadow: 0 4px 6px rgba(33, 150, 243, 0.2);
+    margin-top: 20px;
+}
+
+.time-series-analysis h4 {
+    color: #1565c0;
+    margin-top: 0;
+}
+
+/* 災害監視ボックス */
+.disaster-monitoring {
+    background: linear-gradient(135deg, #fce4ec 0%, #f8bbd0 100%);
+    padding: 25px;
+    border-radius: 15px;
+    border: 2px solid #e91e63;
+    box-shadow: 0 4px 6px rgba(233, 30, 99, 0.2);
+}
+
+.disaster-monitoring h4 {
+    color: #c2185b;
+    margin-top: 0;
+}
+
+/* 重力波紹介ボックス */
+.gravitational-intro {
+    background: linear-gradient(135deg, #311b92 0%, #512da8 100%);
+    color: white;
+    padding: 25px;
+    border-radius: 15px;
+    box-shadow: 0 4px 6px rgba(49, 27, 146, 0.3);
+}
+
+.gravitational-intro h4 {
+    color: white;
+    margin-top: 0;
+}
+
+/* 初検出ボックス */
+.first-detection {
+    background: linear-gradient(135deg, #ffd54f 0%, #ffca28 100%);
+    padding: 25px;
+    border-radius: 15px;
+    border: 2px solid #ffa000;
+    box-shadow: 0 4px 6px rgba(255, 160, 0, 0.3);
+}
+
+.first-detection h4 {
+    color: #e65100;
+    margin-top: 0;
+}
+
+/* LIGO原理ボックス */
+.ligo-principle {
+    background: linear-gradient(135deg, #e1f5fe 0%, #b3e5fc 100%);
+    padding: 25px;
+    border-radius: 15px;
+    border: 2px solid #03a9f4;
+    box-shadow: 0 4px 6px rgba(3, 169, 244, 0.2);
+}
+
+.ligo-principle h4 {
+    color: #0277bd;
+    margin-top: 0;
+}
+
+/* 感度スケールボックス */
+.sensitivity-scale {
+    background: linear-gradient(135deg, #fce4ec 0%, #f8bbd0 100%);
+    padding: 25px;
+    border-radius: 15px;
+    border: 2px solid #e91e63;
+    box-shadow: 0 4px 6px rgba(233, 30, 99, 0.2);
+}
+
+.sensitivity-scale h4 {
+    color: #c2185b;
+    margin-top: 0;
+}
+
+/* ノイズ対策ボックス */
+.noise-reduction {
+    background: linear-gradient(135deg, #e8f5e9 0%, #a5d6a7 100%);
+    padding: 25px;
+    border-radius: 15px;
+    border: 2px solid #4caf50;
+    box-shadow: 0 4px 6px rgba(76, 175, 80, 0.2);
+}
+
+.noise-reduction h4 {
+    color: #2e7d32;
+    margin-top: 0;
+}
+
+/* 重力波イベントボックス */
+.gw-events {
+    background: linear-gradient(135deg, #3f51b5 0%, #5c6bc0 100%);
+    color: white;
+    padding: 25px;
+    border-radius: 15px;
+    box-shadow: 0 4px 6px rgba(63, 81, 181, 0.3);
+}
+
+.gw-events h4 {
+    color: white;
+    margin-top: 0;
+}
+
+/* 波形解析ボックス */
+.waveform-analysis {
+    background: linear-gradient(135deg, #fff3e0 0%, #ffe0b2 100%);
+    padding: 25px;
+    border-radius: 15px;
+    border: 2px solid #ff9800;
+    box-shadow: 0 4px 6px rgba(255, 152, 0, 0.2);
+}
+
+.waveform-analysis h4 {
+    color: #e65100;
+    margin-top: 0;
+}
+
+/* KAGRA特徴ボックス */
+.kagra-features {
+    background: linear-gradient(135deg, #ffebee 0%, #ffcdd2 100%);
+    padding: 25px;
+    border-radius: 15px;
+    border: 2px solid #f44336;
+    box-shadow: 0 4px 6px rgba(244, 67, 54, 0.2);
+}
+
+.kagra-features h4 {
+    color: #c62828;
+    margin-top: 0;
+}
+
+/* 国際ネットワークボックス */
+.international-network {
+    background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%);
+    padding: 25px;
+    border-radius: 15px;
+    border: 2px solid #2196f3;
+    box-shadow: 0 4px 6px rgba(33, 150, 243, 0.2);
+}
+
+.international-network h4 {
+    color: #1565c0;
+    margin-top: 0;
+}
+
+/* まとめインパクトボックス */
+.summary-impact {
+    background: linear-gradient(135deg, #f5f5f5 0%, #e0e0e0 100%);
+    padding: 40px;
+    border-radius: 20px;
+    margin: 20px auto;
+    max-width: 95%;
+    text-align: center;
+    box-shadow: 0 6px 12px rgba(0,0,0,0.1);
+}
+
+.summary-impact h3 {
+    color: #424242;
+    margin-bottom: 30px;
+}
+
+/* スケール比較最終版 */
+.scale-comparison-final {
+    background-color: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.scale-comparison-final table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.scale-comparison-final th,
+.scale-comparison-final td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #ddd;
+}
+
+.scale-comparison-final th {
+    background-color: #f0f0f0;
+    font-weight: bold;
+}
+
+/* 統一原理ボックス */
+.unified-principle {
+    background: linear-gradient(135deg, #f3e5f5 0%, #e1bee7 100%);
+    padding: 25px;
+    border-radius: 15px;
+    border: 2px solid #9c27b0;
+    box-shadow: 0 4px 6px rgba(156, 39, 176, 0.2);
+}
+
+.unified-principle h4 {
+    color: #6a1b9a;
+    margin-top: 0;
+}

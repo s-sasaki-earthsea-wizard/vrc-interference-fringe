@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg1" height="221.72" viewBox="0,0,455.47943,221.72083" width="455.48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svg="http://www.w3.org/2000/svg">
+ <clipPath id="clipPath2">
+  <path id="path2" d="m0 0h342v167h-342z"/>
+ </clipPath>
+ <clipPath id="clipPath4">
+  <path id="path4" d="m0 0h342v167h-342z"/>
+ </clipPath>
+ <g id="g1">
+  <path id="path1" d="m0 0h341.609v166.289h-341.609z" fill="#fff" transform="scale(1.3333333)"/>
+  <g id="g3">
+   <path id="path3" clip-path="url(#clipPath2)" d="m20.984 127.117h299.641v22.492h-299.641z" fill="#66f" fill-opacity=".302" stroke="#66f" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".992" transform="scale(1.3333333)"/>
+  </g>
+  <g id="g5">
+   <path id="path5" clip-path="url(#clipPath4)" d="m320.625 86.082s-18.395 9.984-27.945 14.238c-9.551 4.254-19.34 8.008-29.282 11.239-9.941 3.234-20.07 5.945-30.296 8.121-10.223 2.172-20.579 3.812-30.977 4.906-10.395 1.09-20.863 1.641-31.32 1.641-10.453 0-20.922-.551-31.321-1.641-10.398-1.094-20.75-2.734-30.976-4.906-10.227-2.176-20.356-4.887-30.297-8.121-9.941-3.231-19.731-6.985-29.281-11.239-9.551-4.254-27.946-14.238-27.946-14.238z" fill="#66f" fill-opacity=".302" stroke="#66f" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".992" transform="scale(1.3333333)"/>
+  </g>
+  <path id="path6" d="m65.914 106.566-1.394.254 3.761 20.461h1.442z" fill="#2ec27e" transform="scale(1.3333333)"/>
+  <path id="path7" d="m64.523 18.09v88.695l1.418.504 1.418.399v-89.598z" fill="#2ec27e" transform="scale(1.3333333)"/>
+  <path id="path8" d="m87.051 30.23-18.645 96.786 1.391.265 18.699-97.051z" fill="#2ec27e" transform="scale(1.3333333)"/>
+  <path id="path9" d="m80.809 30.23-14.856 77.122 1.391.269 14.91-77.391z" fill="#2ec27e" transform="scale(1.3333333)"/>
+  <path id="path10" d="m89.234 23.051-3.347 7.144 3.754.735z" fill="#2ec27e" transform="scale(1.3333333)"/>
+  <path id="path11" d="m82.949 23.051-3.351 7.144 3.757.735z" fill="#2ec27e" transform="scale(1.3333333)"/>
+  <path id="path12" d="m67.637 119.637-3.352-7.145 3.758-.734z" fill="#2ec27e" transform="scale(1.3333333)"/>
+  <path id="path13" d="m65.988 58.578-5.113-20.246 10.129-.023z" fill="#2ec27e" transform="scale(1.3333333)"/>
+  <path id="path14" d="m275.695 106.566 1.395.254-3.762 20.461h-1.441z" fill="#2ec27e" transform="scale(1.3333333)"/>
+  <path id="path15" d="m277.086 18.09v88.695l-1.418.504-1.414.399v-89.598z" fill="#2ec27e" transform="scale(1.3333333)"/>
+  <path id="path16" d="m254.559 30.23 18.644 96.786-1.391.265-18.699-97.051z" fill="#2ec27e" transform="scale(1.3333333)"/>
+  <path id="path17" d="m260.801 30.23 14.855 77.122-1.39.269-14.911-77.391z" fill="#2ec27e" transform="scale(1.3333333)"/>
+  <path id="path18" d="m252.375 23.051 3.348 7.144-3.754.735z" fill="#2ec27e" transform="scale(1.3333333)"/>
+  <path id="path19" d="m258.66 23.051 3.352 7.144-3.758.735z" fill="#2ec27e" transform="scale(1.3333333)"/>
+  <path id="path20" d="m273.973 119.637 3.351-7.145-3.758-.734z" fill="#2ec27e" transform="scale(1.3333333)"/>
+  <path id="path21" d="m275.621 58.578 5.113-20.246-10.129-.023z" fill="#2ec27e" transform="scale(1.3333333)"/>
+ </g>
+</svg>
