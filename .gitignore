@@ -10,4 +10,10 @@ tmp/**
 node_modules/
 .sass-cache
 .claude
-CLAUDE.md
+
+# Python
+__pycache__/
+
+# videos
+videos/*
+!videos/.gitkeep
