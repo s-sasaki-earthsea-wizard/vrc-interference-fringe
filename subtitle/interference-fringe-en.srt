@@ -1,0 +1,543 @@
+1
+00:00:00,020 --> 00:00:06,540
+Hello everyone. Today we present "The Power of Physics Eyes: Interference Fringes" - from soap bubbles' rainbows, we can see atoms, earthquakes, and gravity.
+
+2
+00:00:06,640 --> 00:00:13,400
+A video with this somewhat mysterious title that explores the amazing power of interference fringes.
+
+3
+00:00:13,920 --> 00:00:17,620
+Now everyone, you've blown soap bubbles before, right?
+
+4
+00:00:18,360 --> 00:00:28,439
+Those beautiful rainbow-colored patterns that shimmer - actually, using exactly the same principle, we can see invisible atomic arrangements and ground movements from earthquakes.
+
+5
+00:00:28,940 --> 00:00:32,619
+And even gravitational waves coming from space.
+
+6
+00:00:33,380 --> 00:00:37,240
+Today we'll introduce you to this mysterious world of interference fringes.
+
+7
+00:00:39,500 --> 00:00:43,540
+Let's start with a phenomenon called Newton's rings.
+
+8
+00:00:44,100 --> 00:00:48,300
+Some of you might have seen this in science class experiments.
+
+9
+00:00:48,719 --> 00:00:51,940
+When you place a flat convex lens on a glass plate,
+
+10
+00:00:52,260 --> 00:00:58,199
+beautiful concentric ring patterns appear spreading from the center.
+
+11
+00:00:58,220 --> 00:01:00,020
+These are Newton's rings.
+
+12
+00:01:00,580 --> 00:01:03,120
+Why do such patterns form?
+
+13
+00:01:03,580 --> 00:01:09,460
+Light reflects in the thin air layer between the lens and glass.
+
+14
+00:01:09,980 --> 00:01:15,860
+Light reflected from the upper surface and light reflected from the lower surface overlap,
+
+15
+00:01:16,240 --> 00:01:18,540
+causing a phenomenon called interference.
+
+16
+00:01:19,040 --> 00:01:23,479
+What's interesting here is why they form beautiful concentric circles.
+
+17
+00:01:23,500 --> 00:01:30,300
+Actually, the air layer thickness d has this relationship with the distance r from the center.
+
+18
+00:01:31,160 --> 00:01:37,960
+The air layer thickness equals the radius squared divided by twice the lens's radius of curvature.
+
+19
+00:01:38,560 --> 00:01:43,320
+In other words, the farther from the center, the thicker the air layer becomes.
+
+20
+00:01:43,400 --> 00:01:48,440
+This change in thickness creates the beautiful concentric patterns.
+
+21
+00:01:49,400 --> 00:01:52,339
+Why do bright and dark regions form?
+
+22
+00:01:52,360 --> 00:01:55,620
+This is due to the wave nature of light.
+
+23
+00:01:56,320 --> 00:02:00,260
+When the optical path difference - the difference in distance traveled by two light rays -
+
+24
+00:02:01,040 --> 00:02:04,560
+equals exactly an integer multiple of the light's wavelength,
+
+25
+00:02:05,010 --> 00:02:07,400
+the waves reinforce each other and become bright.
+
+26
+00:02:07,580 --> 00:02:11,420
+Conversely, at positions offset by half a wavelength,
+
+27
+00:02:12,190 --> 00:02:14,680
+the waves cancel each other out and become dark.
+
+28
+00:02:15,280 --> 00:02:17,340
+Imagine waves in a pool.
+
+29
+00:02:18,100 --> 00:02:21,179
+If two waves perfectly overlap,
+
+30
+00:02:21,200 --> 00:02:26,020
+they create a large wave. If peaks and troughs overlap, they flatten out.
+
+31
+00:02:26,580 --> 00:02:28,000
+It's the same principle.
+
+32
+00:02:28,840 --> 00:02:32,720
+Now here's the really amazing part.
+
+33
+00:02:32,920 --> 00:02:38,440
+The ring radius is about 5mm or so - easily measurable with a ruler, right?
+
+34
+00:02:39,540 --> 00:02:42,460
+But what about the air layer thickness?
+
+35
+00:02:42,640 --> 00:02:45,340
+Let's actually calculate it.
+
+36
+00:02:45,460 --> 00:02:48,279
+For example, if the ring radius is 5mm
+
+37
+00:02:48,300 --> 00:02:52,460
+and the lens radius of curvature is 1 meter,
+
+38
+00:02:52,940 --> 00:02:59,160
+the air layer thickness is about 12.5 micrometers!
+
+39
+00:02:59,840 --> 00:03:03,260
+That's about one-fifth the thickness of a human hair.
+
+40
+00:03:03,720 --> 00:03:07,180
+So from visible 5mm fringe patterns,
+
+41
+00:03:07,780 --> 00:03:11,880
+we can determine invisible 12.5 micrometer
+
+42
+00:03:12,020 --> 00:03:15,499
+ultra-fine thicknesses!
+
+43
+00:03:15,520 --> 00:03:18,220
+This is the magic of interference fringes.
+
+44
+00:03:18,240 --> 00:03:23,400
+It's nature's amplification device that shows us invisible things magnified hundreds to thousands of times.
+
+45
+00:03:23,460 --> 00:03:25,880
+And soap bubble rainbows work on exactly the same principle.
+
+46
+00:03:26,140 --> 00:03:30,920
+However, the difference from Newton's rings is
+
+47
+00:03:31,320 --> 00:03:33,920
+that the medium changes from air to a thin soap film,
+
+48
+00:03:34,520 --> 00:03:39,460
+and the shape becomes irregular patterns instead of concentric circles.
+
+49
+00:03:39,920 --> 00:03:43,619
+The soap bubble film thickness varies by location.
+
+50
+00:03:43,640 --> 00:03:48,160
+And depending on the film thickness, places where 700nm red light reinforces
+
+51
+00:03:48,400 --> 00:03:54,980
+differ from places where 450nm blue light reinforces,
+
+52
+00:03:55,020 --> 00:04:01,060
+which is why those beautiful rainbow colors appear.
+
+53
+00:04:01,120 --> 00:04:03,660
+Now here's the main topic.
+
+54
+00:04:06,040 --> 00:04:08,959
+In 1912, a scientist named Max von Laue
+
+55
+00:04:09,500 --> 00:04:13,900
+discovered that X-rays diffract when directed at crystals.
+
+56
+00:04:14,580 --> 00:04:18,560
+What's amazing about this is
+
+57
+00:04:19,440 --> 00:04:21,739
+that it was the moment humanity first became able to see atomic arrangements.
+
+58
+00:04:22,019 --> 00:04:27,900
+In X-ray diffraction, Bragg's law becomes important.
+
+59
+00:04:28,180 --> 00:04:33,260
+It sounds complicated, but the principle is simple.
+
+60
+00:04:33,460 --> 00:04:36,979
+Atoms in crystals are arranged regularly,
+
+61
+00:04:37,000 --> 00:04:40,520
+and when the path difference of X-rays reflected from each layer
+
+62
+00:04:41,280 --> 00:04:46,300
+equals an integer multiple of the wavelength,
+
+63
+00:04:46,400 --> 00:04:48,680
+the X-rays reinforce each other.
+
+64
+00:04:49,160 --> 00:04:50,860
+Same principle as soap bubbles.
+
+65
+00:04:51,740 --> 00:04:55,820
+In actual measurements, we first record diffraction patterns
+
+66
+00:04:55,900 --> 00:04:59,720
+and investigate at which angles X-rays become strong.
+
+67
+00:04:59,840 --> 00:05:04,399
+Then using Bragg's equation, we calculate interatomic distances
+
+68
+00:05:04,420 --> 00:05:07,420
+and ultimately reveal how atoms are arranged -
+
+69
+00:05:07,750 --> 00:05:09,940
+their three-dimensional structure.
+
+70
+00:05:11,080 --> 00:05:14,840
+X-ray diffraction is actually used in many places.
+
+71
+00:05:15,380 --> 00:05:18,420
+New material development, geological surveys,
+
+72
+00:05:18,480 --> 00:05:20,400
+and interestingly,
+
+73
+00:05:21,180 --> 00:05:25,300
+in art authentication too - analyzing pigment components
+
+74
+00:05:25,360 --> 00:05:27,500
+to distinguish authentic from fake
+
+75
+00:05:27,890 --> 00:05:30,759
+or estimate when paintings were created.
+
+76
+00:05:33,220 --> 00:05:40,080
+Next is InSAR. The formal name is Interferometric Synthetic Aperture Radar.
+
+77
+00:05:40,980 --> 00:05:45,200
+In Japanese, it's called synthetic aperture radar interferometry.
+
+78
+00:05:45,900 --> 00:05:49,900
+This is a technology for measuring ground deformation from satellites.
+
+79
+00:05:50,900 --> 00:05:52,300
+The mechanism works like this:
+
+80
+00:05:52,840 --> 00:05:59,820
+The satellite emits radio waves toward the ground and observes the same location again after some time.
+
+81
+00:06:00,780 --> 00:06:06,480
+If the ground has moved due to earthquakes or other causes, the distance from the satellite changes, right?
+
+82
+00:06:07,000 --> 00:06:12,240
+This distance change is detected as a phase difference between the two observation datasets.
+
+83
+00:06:12,500 --> 00:06:17,380
+During the 2016 Kumamoto earthquake, this technology played a major role.
+
+84
+00:06:18,360 --> 00:06:25,540
+Amazingly, ground displacement of up to 1 meter - about the height of an adult's waist -
+
+85
+00:06:25,960 --> 00:06:27,759
+was observed from space.
+
+86
+00:06:28,300 --> 00:06:36,480
+Rainbow-colored interference fringe patterns centered on the epicenter appeared on the ground surface like a giant soap bubble.
+
+87
+00:06:37,280 --> 00:06:45,100
+What's amazing about this technology is that within hours of a disaster, we can understand damage conditions over a wide area.
+
+88
+00:06:46,140 --> 00:06:56,220
+We can check conditions in dangerous places where people can't enter, and by continuously observing the same location for years, we can capture slow changes like ground subsidence.
+
+89
+00:06:59,139 --> 00:07:03,160
+Finally, the ultimate interference technology: gravitational wave detection.
+
+90
+00:07:03,560 --> 00:07:07,760
+Einstein predicted that when massive objects move, spacetime warps
+
+91
+00:07:07,840 --> 00:07:12,540
+and this distortion propagates as waves.
+
+92
+00:07:13,000 --> 00:07:18,720
+But they were too small - for nearly 100 years, no one could actually observe them.
+
+93
+00:07:19,639 --> 00:07:22,559
+Then on September 14, 2015,
+
+94
+00:07:22,580 --> 00:07:29,220
+the American research facility LIGO finally succeeded in detecting gravitational waves for the first time.
+
+95
+00:07:30,440 --> 00:07:35,680
+They caught gravitational waves from black hole mergers that occurred 1.3 billion light-years away.
+
+96
+00:07:36,650 --> 00:07:39,720
+It was 99 years after Einstein's prediction.
+
+97
+00:07:40,500 --> 00:07:46,600
+LIGO is a massive L-shaped device with 4km arms, as shown in this aerial photograph.
+
+98
+00:07:46,900 --> 00:07:50,599
+Laser light is split into two arms and made to travel back and forth.
+
+99
+00:07:50,620 --> 00:07:57,100
+When gravitational waves pass through, one arm stretches slightly while the other contracts.
+
+100
+00:07:58,080 --> 00:08:01,900
+This tiny change is detected using a Michelson interferometer.
+
+101
+00:08:02,840 --> 00:08:05,180
+We're measuring incredibly small lengths,
+
+102
+00:08:05,880 --> 00:08:11,540
+but the measurement principle is actually very classical and orthodox.
+
+103
+00:08:12,120 --> 00:08:15,919
+Here's the truly unbelievable part.
+
+104
+00:08:15,940 --> 00:08:22,820
+The detected displacement is only 10^-18 meters.
+
+105
+00:08:22,820 --> 00:08:24,860
+That's incredibly small.
+
+106
+00:08:24,860 --> 00:08:27,360
+To understand how small this is:
+
+107
+00:08:27,360 --> 00:08:32,159
+It's one-thousandth the size of a proton, the particle that makes up atomic nuclei.
+
+108
+00:08:32,159 --> 00:08:35,560
+Comparing to the distance between Earth and the Sun,
+
+109
+00:08:35,560 --> 00:08:38,500
+it's the size of one hydrogen atom.
+
+110
+00:08:38,500 --> 00:08:43,640
+If you expanded a hair's thickness to Earth's diameter,
+
+111
+00:08:43,640 --> 00:08:45,900
+it would barely move 1 millimeter.
+
+112
+00:08:45,920 --> 00:08:49,340
+It's unimaginably small.
+
+113
+00:08:49,820 --> 00:08:55,280
+But using the phenomenon of interference, we can measure this!
+
+114
+00:08:56,060 --> 00:09:03,580
+The first detected gravitational wave, called GW150914,
+
+115
+00:09:03,580 --> 00:09:10,620
+was from a phenomenon where energy equivalent to 3 times the Sun's mass was released instantaneously.
+
+116
+00:09:10,640 --> 00:09:15,200
+To detect displacements far smaller than protons,
+
+117
+00:09:15,560 --> 00:09:20,700
+various noise countermeasures and interference amplification techniques are used,
+
+118
+00:09:20,780 --> 00:09:25,320
+but the fundamental principle is the classical Michelson interferometer -
+
+119
+00:09:25,660 --> 00:09:29,300
+the same light interference as soap bubble rainbows.
+
+120
+00:09:29,860 --> 00:09:35,160
+What all the technologies we've seen today have in common is interference fringes.
+
+121
+00:09:35,180 --> 00:09:40,700
+Path differences become phase differences, which appear as interference patterns.
+
+122
+00:09:41,460 --> 00:09:47,180
+Using this principle, we've visualized invisible things and amplified minute changes.
+
+123
+00:09:47,280 --> 00:09:50,420
+From the atomic world to global-scale changes,
+
+124
+00:09:50,620 --> 00:09:54,800
+and even spacetime waves coming from the far reaches of the universe -
+
+125
+00:09:55,000 --> 00:10:02,339
+we're observing everything using fundamentally the same principle as soap bubble rainbows.
+
+126
+00:10:02,700 --> 00:10:09,100
+Interference fringes are truly a special eye given to physics.
+
+127
+00:10:12,139 --> 00:10:13,220
+How was that?
+
+128
+00:10:14,200 --> 00:10:17,800
+Today we've journeyed together through the mysterious world of interference fringes.
+
+129
+00:10:18,980 --> 00:10:21,700
+The rainbow colors of soap bubbles we blew as children -
+
+130
+00:10:21,780 --> 00:10:24,460
+using the same principle as those beautiful patterns,
+
+131
+00:10:24,880 --> 00:10:28,399
+scientists can unravel atomic arrangements
+
+132
+00:10:28,940 --> 00:10:32,340
+and even capture gravitational waves from space.
+
+133
+00:10:34,139 --> 00:10:37,440
+Doesn't this change how you see the world?
+
+134
+00:10:38,399 --> 00:10:45,160
+Next time you see soap bubbles, please stop for a moment and observe them.
+
+135
+00:10:46,980 --> 00:10:53,379
+Keys to unlocking the universe's secrets might be hidden in those rainbow colors.
+
+136
+00:10:55,020 --> 00:10:58,460
+Well then everyone, until the next video, farewell.
